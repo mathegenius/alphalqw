@@ -1,4 +1,3 @@
-<center><script src="http://h1.flashvortex.com/display.php?id=2_1332112538_37559_253_0_1328_87_8_1_113" type="text/javascript"></script>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
