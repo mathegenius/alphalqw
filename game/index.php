@@ -42,6 +42,9 @@ switch($size) {
 <style type="text/css">!-- .floater{visibility:hidden;width:100%;height:100%;position:absolute;z-index:2;float:none;top:0;left:0;font-size:12px}.main{visibility:visible}body,td,th{color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:12px}body{background:#fff url(/images/skins/skin-epicduel-winter.jpg) fixed no-repeat top center}.black-background{background:#fff}#skin-wrap{width:100%}#right-content{display:block;float:right;width:10%;height:100%;overflow:hidden}#main-content{display:block;width:950px;margin:0 auto 0 auto}.link-hm{width:100%;height:100%;display:block}.pinkText,.greenText{color:#ffffff!important}.whiteText{color:#ffffff!important}.greenText1{color:#ffffff!important}.pinkText1{color:#ffffff!important}</style>
 </head>
 <body>
+<div id="fb-root"></div>
+<script>/*<![CDATA[*/(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=468230926614503";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));/*]]>*/</script>
+<div class="fb-like-box" data-href="http://www.facebook.com/aqwps/" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
 <div align="center"><strong><br />
 <div align="center"><strong><br />
 <div align="center"><strong><br />
