@@ -13,9 +13,9 @@ $temp->header("Ranking");
 
 $temp->content .= '<h1>Top 20 Players</h1>';
 if(isset($C_GET['mods']) && $C_GET['mods'] == 1) {
-	$temp->content .= '<p><a href="top20players.asp?'.http_build_query(Array('mods' => 0) + $_GET, '', '&').'">Players and V.I.Ps only</a></p>';
+	$temp->content .= '<p><a href="top20players.php?'.http_build_query(Array('mods' => 0) + $_GET, '', '&').'">Players and V.I.Ps only</a></p>';
 } else {
-	$temp->content .= '<p><a href="top20players.asp?'.http_build_query(Array('mods' => 1) + $_GET, '', '&').'">Include Mods and Admins</a></p>';
+	$temp->content .= '<p><a href="top20players.php?'.http_build_query(Array('mods' => 1) + $_GET, '', '&').'">Include Mods and Admins</a></p>';
 }
 
 /** Begin Ranking Table **/
