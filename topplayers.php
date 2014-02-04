@@ -11,7 +11,7 @@ $temp = new Template();
 
 $temp->header("Ranking");
 
-$temp->content .= '<h1>Top 20 Players</h1>';
+$temp->content .= '<h1>Top Players</h1>';
 if(isset($C_GET['mods']) && $C_GET['mods'] == 1) {
 	$temp->content .= '<p><a href="top20players.php?'.http_build_query(Array('mods' => 0) + $_GET, '', '&').'">Players and V.I.Ps only</a></p>';
 } else {
@@ -59,9 +59,9 @@ if(isset($C_GET['o'])) {
 }
 
 if(isset($C_GET['mods']) && $C_GET['mods'] == 1) {
-	$query = $mysql->query("SELECT {$usr['name']},{$usr['coin']},{$usr['gold']},{$usr['serv']},{$usr['area']},{$usr['levl']} FROM {$tbl['user']} ORDER BY $o DESC LIMIT 20");
+	$query = $mysql->query("SELECT {$usr['name']},{$usr['coin']},{$usr['gold']},{$usr['serv']},{$usr['area']},{$usr['levl']} FROM {$tbl['user']} ORDER BY $o DESC LIMIT 10000");
 } else {
-	$query = $mysql->query("SELECT {$usr['name']},{$usr['coin']},{$usr['gold']},{$usr['serv']},{$usr['area']},{$usr['levl']} FROM {$tbl['user']} WHERE {$usr['accs']} < 40 ORDER BY $o DESC LIMIT 20");
+	$query = $mysql->query("SELECT {$usr['name']},{$usr['coin']},{$usr['gold']},{$usr['serv']},{$usr['area']},{$usr['levl']} FROM {$tbl['user']} WHERE {$usr['accs']} < 40 ORDER BY $o DESC LIMIT 10000");
 }
 
 $i = 1;
