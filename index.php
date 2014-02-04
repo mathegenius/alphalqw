@@ -1,3 +1,4 @@
+<center><script src="http://h1.flashvortex.com/display.php?id=2_1332112538_37559_253_0_1328_87_8_1_113" type="text/javascript"></script>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -100,9 +101,6 @@ WiSeXC is a awesome PS a really exclusive one.<a href="/screenshots/aw-screensho
 <ul>
 <li><a href="/ubershop.asp">Shop</a></li>
 </ul></td></tr>
-while($data = $mysql->fetch($query)) {
-$temp->add_post($data[$pst['ptid']], $data[$pst['user']], $data[$pst['ttle']], $data[$pst['subt']], $root->bbcode_format($data[$pst['text']]), $data[$pst['datt']]);
-}
 <tr><td align="center" valign="top"><a href="/gamedesignnotes/tag/Lulz"><img src="/images/avatars/avatar-lulz.gif" width="115" height="118" alt="Lulz"></a><br /></td><td align="left" valign="top"><h2>Full Metal Santa Armor!! O.O</h2><h3>Made by Lartistou</h3>
 <p>omg, me wuvs it.</p>
 <p>It was requested by some people.</p>
