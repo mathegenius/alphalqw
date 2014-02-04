@@ -42,10 +42,13 @@ switch($size) {
 <style type="text/css">!-- .floater{visibility:hidden;width:100%;height:100%;position:absolute;z-index:2;float:none;top:0;left:0;font-size:12px}.main{visibility:visible}body,td,th{color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:12px}body{background:#fff url(/images/skins/skin-epicduel-winter.jpg) fixed no-repeat top center}.black-background{background:#fff}#skin-wrap{width:100%}#right-content{display:block;float:right;width:10%;height:100%;overflow:hidden}#main-content{display:block;width:950px;margin:0 auto 0 auto}.link-hm{width:100%;height:100%;display:block}.pinkText,.greenText{color:#ffffff!important}.whiteText{color:#ffffff!important}.greenText1{color:#ffffff!important}.pinkText1{color:#ffffff!important}</style>
 </head>
 <body>
+<h4>Like our sponsors' pages and get special codes that may unlock Adventure Coins.</h4>
 <div id="fb-root"></div>
 <script>/*<![CDATA[*/(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=468230926614503";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));/*]]>*/</script>
-<div class="fb-like" data-href="https://facebook.com/aqwps" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-<div class="fb-like" data-href="https://www.facebook.com/SxcWorldsPage" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<center>
+<div class="fb-like" data-colorscheme="light" data-href="https://facebook.com/aqwps" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-colorscheme="light" data-href="https://www.facebook.com/SxcWorldsPage" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+</center>
 <div align="center"><strong><br />
 <div align="center"><strong><br />
 <div align="center"><strong><br />
