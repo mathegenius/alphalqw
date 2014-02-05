@@ -49,6 +49,7 @@ switch($size) {
 <div class="fb-like" data-colorscheme="light" data-href="https://facebook.com/aqwps" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 <div class="fb-like" data-colorscheme="light" data-href="https://www.facebook.com/SxcWorldsPage" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 </center>
+<center><iframe width="100%" height="200px" src="http://me.owlg.org/lqw/update/index.html"></iframe></center>
 <div align="center"><strong><br />
 <div align="center"><strong><br />
 <div align="center"><strong><br />
