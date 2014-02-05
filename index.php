@@ -4,14 +4,13 @@
 <title>Home - WiSeXC</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=8" />
-<meta name="alexaVerifyID" content="0QJ6behZFxvCaGhFUBWZoeXpORY" />
-<meta name="description" content="a really exclusive and awesome Private Server!!!!" />
+<meta name="description" content="WiSeXC is an amazing private server that is aimed to be fast and fun to play." />
 <link rel="shortcut icon" href="/images/icons/valencia.ico" />
 <link href="/css/AQW-style.css?ver=3" rel="stylesheet" type="text/css" />
 <style type="text/css">
 body {
   
-    background: #000000 url(/images/skins/background111.jpg) fixed no-repeat top center;
+    background: #000000 url(http://aq.com/images/bgs/aqw-hmpg-bg-nowhitedot.jpg) fixed no-repeat top center;
 }
 .black-background {background: #000000;}
 #skin-wrap {
@@ -103,39 +102,10 @@ var WRInitTime=(new Date()).getTime();
   <div class="nav">- <a href="/">Home</a><br />
     - <a href="/about.asp">About</a><br />
     - <a href="/top20players.php">Players List</a><br />
-    - <a href="http://owlg.org/">Sponsor</a><br />
+    - <a href="http://www.owlg.org/">Sponsor</a><br />
   <img src="/images/Menu/menublack-bottom.gif" alt="about" />
   <br />
   <br />   
-  <!-- Google Translater Widget for www.aq.com site -->
-<script type="text/javascript">
-function pickCC(countryabbrev) {
-    var parent,descendants,objSelect,evt;
-    // find first select box inside the google div
-    parent = document.getElementById("google_translate_element");
-    descendants = parent.getElementsByTagName("select");
-    if (descendants.length) {
-        objSelect = descendants[0];
-        objSelect.value = countryabbrev; // change lang selection
-        if (document.createEventObject){
-            evt = document.createEventObject();
-            return objSelect.fireEvent('onchange',evt); // dispatch for IE
-        } else {
-            evt = document.createEvent("HTMLEvents"); 
-            evt.initEvent('change', true, true ); 
-            return !objSelect.dispatchEvent(evt); // dispatch for firefox+others
-        }
-    }
-}
-</script>
-<img alt="Portugese" src="/images/flags/br.png" onclick="pickCC('pt')"/>&nbsp;
-<img alt="French" src="/images/flags/fr.png" onclick="pickCC('fr')"/>&nbsp;
-<img alt="Spanish" src="/images/flags/es.png" onclick="pickCC('es')"/>&nbsp;
-<img alt="Dutch" src="/images/flags/nl.png" onclick="pickCC('nl')"/>&nbsp;
-<img alt="German" src="/images/flags/de.png" onclick="pickCC('de')"/>&nbsp;
-<br/>
-<div id="google_translate_element" style="font-size: 10px!important;"></div>
-
 
   <br />   
 
@@ -146,7 +116,7 @@ function pickCC(countryabbrev) {
     <span style="font-size:10px;">Google+<span style="vertical-align: text-bottom"><g:plusone></g:plusone></span></span>
 <br /> 
 <br />
-<a href="" target="_blank"><img src="/images/Menu/follow-artix.gif" alt="a awesome PS :D" width="160" height="100" /></a>
+<a href="" target="_blank"><img src="/images/Menu/follow-artix.gif" alt="WiSeXC, the awesome PS." width="160" height="100" /></a>
 <br />
 <img src="/images/Menu/menu-account.gif" alt="about" />
   <div class="nav">- <a href="/createaccount.asp">Create Account</a><br />
@@ -160,11 +130,6 @@ function pickCC(countryabbrev) {
     - <a href="/aw-terms.asp">Terms and Conditions.</a><br />
   <img src="/images/Menu/menublack-bottom.gif" alt="about" />
     <br />
-    <br />
-    <!--
-    <a href="/ubershop.asp" title="AdventureCoins Now Available"><img src="/images/Members/ad-AC.jpg" /></a>
-    <br /><br />
-    -->
 
   <p align="center"><img src="/images/truste/e10.gif" alt="ESRB Rating" width="101" height="149" /><br />
     <span style="font-size:10px;">
@@ -290,7 +255,7 @@ document.writeln("<IFR"+"AME width=125 height=935 frameborder=0 scrolling='no' s
 <link href="/shared/m-battlebar/style-battlebar.css" media="all" rel="stylesheet" type="text/css" />
 
 <div id="battlebar">
-  <div class="wrap"> <a href="http://portal.battleon.com/"><img src="/shared/m-battlebar/images/battlebar-ae-logo.png" alt="WiSeXC Entertainment" width="85" height="42" /></a>
+  <div class="wrap"> <a href="http://www.owlg.org/blog/"><img src="/shared/m-battlebar/images/battlebar-ae-logo.png" alt="WiSeXC Entertainment" width="85" height="42" /></a>
   <h4>VPS here soon! (need donations)</h4>
     <div class="bar">
 
@@ -314,7 +279,7 @@ document.writeln("<IFR"+"AME width=125 height=935 frameborder=0 scrolling='no' s
           <li class="top"><a class="dir">Shop</a>
             <ul>
               
-              <li class="shop-upgrade-aqw"><a href="/ubershop.asp"><strong>Buy Stuff (Donate)</strong><br /> 
+              <li class="shop-upgrade-aqw"><a href="/ubershop.asp"><strong>Shop</strong><br /> 
               <span class="smallText">Make your character.</span></a></li>
 
             </ul>
