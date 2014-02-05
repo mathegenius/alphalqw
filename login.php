@@ -64,7 +64,7 @@ if(isset($C_POST['login'])) {
 			}
 			header("Location: loginsuccess.asp");
 		} else {
-			$temp->add_error("Warning", "Invalid Credentials");
+			$temp->add_error("Warning", "Invalid Credentials, please try again. Please report to WiSeXC staffs if you have lost your password.");
 		}
 	}
 }
